@@ -261,6 +261,8 @@ composite relation, because they have an ID array of each other.
 - [ ] Add new method for changing data_base files, because we are only read files
 - [ ] Add classes in a School and School administrator
 - [ ] Add an opportunity  to change login and password (the main functions are implemented)
-## About Grade
 
-I think I will get about `90` points.
+## Reference
+- https://www.jb51.net/article/241204.htm
+- https://blog.csdn.net/liuzubing/article/details/116004214
+- https://www.cnblogs.com/zhengze/p/14347967.html

@@ -193,7 +193,7 @@ This is the current structure of the repository
 
 ## DataBase
 
-We use database for this application in this format
+I use database for this application in this format
 
 ```
 |--- data_base
@@ -252,7 +252,7 @@ Our `Student` and `Teacher` classes have a IS-A relation with `Human` class.
 Our `School` class HAS-A `Teacher` and `Student` classes.
 
 ### Composite relation
-We can in some point sey that `Teacher` and `Student` have a 
+I can in some point sey that `Teacher` and `Student` have a 
 composite relation, because they have an ID array of each other.
 
 ## Future Work

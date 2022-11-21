@@ -1,0 +1,2 @@
+oliv_smi smith2022 Oliver Smith male 20 
+mia_olsen olsen2022 Mia Olsen female 19

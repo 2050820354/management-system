@@ -1,0 +1,14 @@
+Please enter login and password
+1.Login -> 2.Password -> Welcome to our online class system student 
+Oliver Smith
+You can
+1. see grade
+2. quit
+please enter the command id: Grades for subject Algebra.
+5 4 3 5 4 4 3 
+Grades for subject Geometry.
+3 3 3 3 4 5 
+You can
+1. see grade
+2. quit
+please enter the command id: 
